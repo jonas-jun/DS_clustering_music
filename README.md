@@ -30,6 +30,7 @@ Cleansing data, EDA(Exploratory Data Analysis), Clustering, and Radar chart by J
 
 **Final report (report.pdf) in this repository.**
 
+[arXiv link](https://arxiv.org/abs/2102.13350) 
 
 
 ```python
