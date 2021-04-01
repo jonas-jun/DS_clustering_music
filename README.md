@@ -30,7 +30,8 @@ Cleansing data, EDA(Exploratory Data Analysis), Clustering, and Radar chart by J
 
 **Final report (report.pdf) in this repository.**
 
-[arXiv link](https://arxiv.org/abs/2102.13350) 
+[arXiv link](https://arxiv.org/abs/2102.13350)   
+[TechXplore article by *Ingrid Fadelli* link](https://techxplore.com/news/2021-03-music-circles-interactive-visualization-tool.html)  
 
 
 ```python
